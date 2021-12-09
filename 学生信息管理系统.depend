@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639031883 source:e:\c语言\code\学生信息管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
